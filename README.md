@@ -279,3 +279,4 @@ To generate API documentation, install doxygen 1.8.7 or later.
     $ doxygen
 
 To view the documentation, open `lib/html/index.html` in a web browser.
+
