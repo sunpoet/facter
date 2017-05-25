@@ -67,7 +67,7 @@ endif()
 
 find_package(Leatherman REQUIRED COMPONENTS ${LEATHERMAN_COMPONENTS})
 
-# Now that we have leatherman, we can pulll in its options file, which
+# Now that we have leatherman, we can pull in its options file, which
 # we need for finding all our other libraries.
 include(options)
 
